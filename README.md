@@ -1,3 +1,6 @@
-# test
+# About
 
-in that repository just create for learn about git and git hub basic commands
+Name : Bala Subbaiah I
+Age  : 21
+Dob : 01-06-2003
+
